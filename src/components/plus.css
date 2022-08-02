@@ -1,0 +1,137 @@
+.container{
+    height: 900px;
+    /* border: 1px solid; */
+    width: 70%;
+    margin-left: 12%;
+    margin-top: 6%;
+}
+.t{
+    width: 90%;
+    height: 150px;
+    /* border: 2px solid; */
+    /* margin: 0px; */
+    /* float: left; */
+}
+#plus{
+    margin-left: 68%;
+}
+.t>h1{
+    padding-left: 70%;
+}
+.botm{
+    width: 100%;
+    height: 740px;
+    /* border: 1px solid rebeccapurple; */
+    /* margin-top: 12%; */
+    display: flex;
+}
+.l{
+    width: 50%;
+    height: 100%;
+    /* border: 1px solid; */
+} 
+#limg{
+    margin-top: 5%;
+    margin-bottom: 6%;
+}
+.l>h3{
+    margin-top: 26%;
+}
+.one{
+    width: 100%;   
+    height: 50px;
+    /* border: 2px solid; */
+    background-color: #fcf6ed;
+    display: flex;
+}
+.one>div>img{
+    width: 27px;
+    margin-top: 11px;
+    margin-left: 85px;
+    /* border: solid; */
+    
+}
+span{
+    font-size: 16px;
+    margin-top: 8px;
+    margin-left: 15px;
+}
+.two{
+    width: 100%;
+    height: 130px;
+    /* border: 1px solid; */
+    margin-top: 5%;
+    /* text-align: left; */
+    display: flex;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 11px
+
+ }
+
+.three{
+    width: 100%;
+    height: 130px;
+    /* border: 1px solid; */
+    margin-top: 5%;
+    display: flex;
+    justify-content:space-evenly;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+    
+
+}
+.twoone{
+    display: flex;
+ 
+    width: 100%;
+    justify-content: space-between;
+    
+    
+}
+#org{
+    color: orange;
+   
+   
+}
+/* #price{
+ margin-left: 80%;
+ 
+} */
+#checkbox{
+    margin-top: 5%;
+    margin-left: 2%;
+    width: 30px;
+    height: 30px;
+    
+   
+    
+}
+#month{
+    margin-top: 2%;
+    margin-left: 2%;
+}
+#gif{
+    width: 160%;
+    margin-top: 30px;
+}
+#input{
+    margin-top: 10px;
+    height: 40%;
+    width: 120%;
+    border: 1px solid rgb(206, 203, 203);
+    border-radius: 5px;
+}
+#input:hover{
+    border: 1px solid rgb(44, 43, 43);
+}
+
+#b{
+    margin-top: 15px;
+    background-color: #08bd80;
+   
+}
+
+.rit{
+    /* border: 1px solid; */
+    width: 100%;
+}

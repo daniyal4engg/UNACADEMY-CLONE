@@ -1,0 +1,87 @@
+body {
+  background-color: #fcfcfc;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+div,
+a {
+  margin: 0;
+  padding: 0;
+}
+
+.courseTopSection {
+  width: 100%;
+  position: relative;
+  background-image: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(229, 244, 255, 0.44) 100%
+  );
+  text-align: center;
+  padding-top: 136px;
+  z-index: 0;
+}
+.courseTopSection div {
+  margin: auto;
+  width: 60%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.courseTopSection h1 {
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 150%;
+  color: #3c4852;
+}
+.courseTopSection p {
+  margin: auto;
+  font-size: 24px;
+  line-height: 150%;
+  width: 80%;
+  color: #3c4852;
+  color: #08bd80;
+}
+
+.top-left-img {
+  position: absolute;
+  left: 0;
+  bottom: 0px;
+}
+
+.top-right-img {
+  position: absolute;
+  bottom: 0px;
+  right: 0;
+}
+
+
+.introduction {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  z-index: 200;
+}
+.introduction span {
+  background-color: #ffad3b;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 6px 8px;
+  border-radius: 4px;
+  color: white;
+}
+.introduction h1 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 120%;
+}
+
+.introduction p {
+  font-size: 16px;
+  color: #3c4852;
+}
